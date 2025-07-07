@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About me
-I'm just a humble computer developer trying to do the best I can with the means Mother Nature has given me. 😉
+I'm just a humble computer developer trying to do the best I can with the means mother Nature has given me. 😉
 
 ## Sponsor
 What? You want to support me? But... I am your faithful servant from now on.
