@@ -1,6 +1,6 @@
 ## Hi there, i'm Rémy 👋
 
-I'm just a humble computer developer trying to do the best I can with the means mother Nature has given me. 😉
+I'm just a humble computer developer trying to do the best I can with the means mother Nature has given me. 😉  
 I don't care about competition because I only seek cooperation. And as my grandfather used to say: "**In life, you have to think big but start small.**"
 
 ![Static Badge](https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript)
